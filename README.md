@@ -1,2 +1,1 @@
-# vim-simpline
-vim simple status line
+# vim-simpleline
