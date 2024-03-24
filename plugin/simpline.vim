@@ -19,4 +19,4 @@ set statusline+=%<%=
 set statusline+=
 
 set statusline+=\ %{&ff}%{strlen(&fenc)?':'.&fenc:''}
-set statusline+=\ (%l,%c)\ [#%{winnr()}]\ ─
+set statusline+=\ (%l,%c)\ [#%{winnr()}]\ 
